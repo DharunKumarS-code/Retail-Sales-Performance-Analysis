@@ -1,1 +1,5 @@
-
+CustomerID,CustomerName,Segment
+201,ABC Corp,Corporate
+202,XYZ Ltd,Small Business
+203,Delta Inc,Consumer
+204,Omega LLC,Corporate

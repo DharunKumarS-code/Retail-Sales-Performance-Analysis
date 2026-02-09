@@ -1,1 +1,6 @@
-
+ProductID,ProductName,Category,Cost
+101,Laptop,Electronics,400
+102,Printer,Electronics,280
+103,Monitor,Electronics,550
+104,Desk,Office Supplies,210
+105,Chair,Office Supplies,480
